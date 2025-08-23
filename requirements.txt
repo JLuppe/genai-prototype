@@ -1,7 +1,2 @@
 streamlit
 pandas
-numpy
-plotly
-altair
-matplotlib
-openai
